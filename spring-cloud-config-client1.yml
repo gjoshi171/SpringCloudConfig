@@ -1,0 +1,4 @@
+my: 
+    greeting: Hello world by spring-cloud-config-client1
+    list: 
+         values : one , two , three
