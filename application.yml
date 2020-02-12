@@ -1,4 +1,4 @@
 my: 
-    greeting: updated Hello world by config server
+    greeting: Newly updated Hello world by config server
     list: 
          values : one , two , three
